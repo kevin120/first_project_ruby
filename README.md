@@ -2,7 +2,7 @@
 
 Clonar esse repositório utilzando:
 
-`git clone https://github.com/manfe/pos-unipar-rails-app.git rails7_app`
+`git clone https://github.com/kevin120/first_project_ruby.git rails7_app`
 
 Entrar na pasta do projeto `cd rails7_app`
 
